@@ -39,6 +39,10 @@ PlayerSettings:
     y: 0
     width: 1
     height: 1
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/SampleScene.unity
+    guid: 3f1e1a2b3c4d5e6f7a8b9c0d1e2f3a4b
   m_SplashScreenLogos: []
   m_VirtualRealitySplashScreen: {fileID: 0}
   defaultScreenWidth: 1024
